@@ -1,6 +1,6 @@
 # bootstrap-material-design
 
-# bootstrap material design
+# bootstrap-material-design
 
 ## Group name:
   * Vishal Reddy Vennavaram
