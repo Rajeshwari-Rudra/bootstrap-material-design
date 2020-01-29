@@ -7,5 +7,5 @@
 ## Rajeshwari Rudravaram
 ## Vineetha Yenugula
 ## web apps 02 
-### Basics of bootstrap
+### Basics of bootstraP
 
