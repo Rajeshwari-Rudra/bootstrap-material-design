@@ -7,7 +7,7 @@
 ## Rajeshwari Rudravaram
 ## Vineetha Yenugula
 ## web apps 02 
-### Basics of bootstraP
+### Basics of bootstrap
 
 [vineetha github link](https://github.com/vineetha1996)
 
