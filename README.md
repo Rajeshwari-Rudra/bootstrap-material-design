@@ -9,7 +9,7 @@
 ## web apps 02 
 
 ## vishal Githublink
-[Github link](https://vishalreddy114.github.io/first/)
+[Vishal Github link](https://vishalreddy114.github.io/first/)
 
 
 ## Github link
