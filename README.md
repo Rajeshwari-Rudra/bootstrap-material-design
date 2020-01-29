@@ -1,6 +1,6 @@
 # bootstrap-material-design
 
-# Workshop on Bootsrap Material Design
+# bootstrap material design
 
 ## Vishal Reddy Vennavaram
 ## Sai krishna Emmadishetty
