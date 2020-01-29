@@ -5,8 +5,7 @@
 ## Vishal Reddy Vennavaram
 ## Sai krishna Emmadishetty
 ## Rajeshwari Rudravaram
-## Vineetha Yenugula
-## web apps 02 
+## Vineetha Yenugula 
 
 ## vishal Githublink
 [Github link](https://vishalreddy114.github.io/first/)
@@ -14,6 +13,7 @@
 
 ## Github link
   * [Saikrishna github link](https://saikrishna1545.github.io/testcase/)
+  * [vineetha github link](https://github.com/vineetha1996)
 
 
 hello
