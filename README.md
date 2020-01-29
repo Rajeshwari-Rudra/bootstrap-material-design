@@ -2,14 +2,12 @@
 
 # bootstrap material design
 
-## Vishal Reddy Vennavaram
-## Sai krishna Emmadishetty
-## Rajeshwari Rudravaram
-## Vineetha Yenugula 
-
-
-
-
+## Group name:
+  * Vishal Reddy Vennavaram
+  * Sai krishna Emmadishetty
+  * Rajeshwari Rudravaram
+  * Vineetha Yenugula 
+  
 ## Github link
   * [Saikrishna github link](https://saikrishna1545.github.io/testcase/)
   * [vineetha github link](https://github.com/vineetha1996)
