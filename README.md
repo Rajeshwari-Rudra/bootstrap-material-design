@@ -1,2 +1,2 @@
 # bootstrap-material-design
-# vishal
+# Workshop on Bootsrap Material Design
