@@ -1,7 +1,5 @@
 # bootstrap-material-design
 
-# bootstrap-material-design
-
 ## Group Members:
   * Vishal Reddy Vennavaram
   * Sai krishna Emmadishetty
